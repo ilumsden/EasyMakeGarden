@@ -31,7 +31,7 @@ h6 {
     padding-bottom: 50px;
     text-align: center;
     color: #f8f8f8;
-    background: url(../img/main_banner_img.jpg) no-repeat center center;
+    background: url(../img/main_banner_img.png) no-repeat center center;
     background-size: cover;
 }
 
@@ -55,6 +55,12 @@ h6 {
 
 .intro-message > h3 {
     text-shadow: 2px 2px 3px rgba(0,0,0,0.6);
+}
+
+.signup-form {
+    background: #fff;
+    clear: left;
+    font: 14px Helvetica, Arial, sans-serif;
 }
 
 @media(max-width:767px) {
@@ -112,7 +118,7 @@ h6 {
 .banner {
     padding: 100px 0;
     color: #f8f8f8;
-    background: url(../img/contact_banner.jpg) no-repeat center center;
+    background: url(../img/contact_banner.png) no-repeat center center;
     background-size: cover;
 }
 
