@@ -1,0 +1,8 @@
+---
+layout: default
+img: ipad.png
+category: Services
+title: Delicious, Easy to Make Meals
+description: |
+---
+Learn to use your homegrown produce to make amazing dishes that will have everyone scrambling for seconds. We'll regularly send you emails with delicious, easy-to-make recipes.

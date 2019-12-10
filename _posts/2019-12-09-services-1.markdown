@@ -1,0 +1,8 @@
+---
+layout: default
+img: ipad.png
+category: Services
+title: Healthier Eating Made Easy
+description: |
+---
+Want to start eating healthier? Homegrown, sustainable produce is the answer. We give you all the resources and tools needed to start your own garden and start growing your own amazing produce.
